@@ -6,6 +6,17 @@
 
 Authors: Deborah Bambil
 
+> Dependences
+
+Download Windows:
+
+
+Or according to your operating system:
+https://imagej.nih.gov/ij/download.html
+
+- Unzip the file and place it in the SegmentImage directory
+
+
 > Run
 
 - Download "SegmentImages" > follow the commands
