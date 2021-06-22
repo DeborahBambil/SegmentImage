@@ -8,22 +8,23 @@ Authors: Deborah Bambil
 
 > Dependences
 
-Download Windows:
+- Download Windows of ImageJ with plugin "Multi_Thresholder":
 
+https://1drv.ms/u/s!Av7wBpsIaNm7aumkVzu1yahWGYU?e=woe0m4
 
-Or according to your operating system:
+Or according to your operating system and install plugin "Multi_Thresholder"
+
 https://imagej.nih.gov/ij/download.html
 
-- Unzip the file and place it in the SegmentImage directory
-
+- Download "SegmentImages" 
 
 > Run
 
-- Download "SegmentImages" > follow the commands
+- Unzip the file ImagemJ and place it in the SegmentImage directory
 
 - Insert your images in the "Input" folder
 
-- Click to open "ImageJ" application 
+- Click to open "ImageJ" application to run
 
 - Click Process > Batch > Macro...
 
