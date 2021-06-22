@@ -8,7 +8,7 @@ Authors: Deborah Bambil
 
 > Dependences
 
-- Download Windows of ImageJ with plugin "Multi_Thresholder":
+- Download Windows of "ImageJ" with plugin "Multi_Thresholder":
 
 https://1drv.ms/u/s!Av7wBpsIaNm7aumkVzu1yahWGYU?e=woe0m4
 
