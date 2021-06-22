@@ -16,6 +16,8 @@ Or according to your operating system and install plugin "Multi_Thresholder"
 
 https://imagej.nih.gov/ij/download.html
 
+https://imagej.nih.gov/ij/plugins/multi-thresholder.html
+
 - Download "SegmentImages" 
 
 > Run
